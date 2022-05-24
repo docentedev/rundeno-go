@@ -9,7 +9,7 @@
 }
 ```
 
-## Compila `rundeno`
+## Compile `rundeno`
 
 `go build ./rundeno.go`
 
