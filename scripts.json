@@ -1,0 +1,4 @@
+{
+    "start": "deno run --allow-net webserver.ts",
+    "build": "deno compile webserver.ts"
+}
